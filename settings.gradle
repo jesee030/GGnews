@@ -1,0 +1,2 @@
+rootProject.name = "GGnews"
+include ':app'
